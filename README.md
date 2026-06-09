@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Capsule Headlamp Plugin
 
 [![GitHub Release](https://img.shields.io/github/v/release/capsule/headlamp-plugin?include_prereleases&sort=semver)](https://github.com/capsule/headlamp-plugin/releases)
@@ -152,3 +153,7 @@ Apache-2.0
 ---
 
 Made with ❤️ for the Capsule and Headlamp communities.
+=======
+# headlamp-plugins
+Headlamp Plugins for Project Capsule
+>>>>>>> eefbff72169dc662cfd3945ee97be446b42ef968
